@@ -1,1 +1,6 @@
-
+Item ID, Item Name, Category, Quantity, Location, Last Updated
+101, Laptop, Electronics, 10, Mumbai Office, 2025-04-27
+102, Desk Chair, Furniture, 20, Delhi Warehouse, 2025-04-26
+103, Whiteboard Markers, Stationery, 50, Bengaluru Office, 2025-04-27
+104, Server Rack, IT Equipment, 5, Hyderabad Data Center, 2025-04-28
+105, Projector, AV Equipment, 8, Chennai Office, 2025-04-27
